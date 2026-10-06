@@ -33,17 +33,17 @@ Each skill provides key concepts, a design procedure, trade-offs, and review che
 | 15 | Google Drive Architecture | [`google-drive/SKILL.md`](google-drive/SKILL.md) |
 | 16 | Proximity Service | [`proximity-service/SKILL.md`](proximity-service/SKILL.md) |
 | 17 | Nearby Friends | [`nearby-friends/SKILL.md`](nearby-friends/SKILL.md) |
-| 18 | Google Maps Architecture | [`18-google-maps/SKILL.md`](google-maps/SKILL.md) |
-| 19 | Distributed Message Queue | [`19-distributed-message-queue/SKILL.md`](distributed-message-queue/SKILL.md) |
-| 20 | Metrics Monitoring and Alerting | [`20-metrics-monitoring-and-alerting-system/SKILL.md`](metrics-monitoring-and-alerting-system/SKILL.md) |
-| 21 | Ad Click Event Aggregation | [`21-ad-click-event-aggregation/SKILL.md`](ad-click-event-aggregation/SKILL.md) |
-| 22 | Hotel Reservation System | [`22-hotel-reservation-system/SKILL.md`](hotel-reservation-system/SKILL.md) |
-| 23 | Distributed Email Service | [`23-distributed-email-service/SKILL.md`](distributed-email-service/SKILL.md) |
-| 24 | S3-Like Object Storage | [`24-s3-like-object-storage/SKILL.md`](24-s3-like-object-storage/SKILL.md) |
-| 25 | Real-Time Gaming Leaderboard | [`25-real-time-gaming-leaderboard/SKILL.md`](25-real-time-gaming-leaderboard/SKILL.md) |
-| 26 | Payment System | [`26-payment-system/SKILL.md`](26-payment-system/SKILL.md) |
-| 27 | Digital Wallet | [`27-digital-wallet/SKILL.md`](27-digital-wallet/SKILL.md) |
-| 28 | Stock Exchange Design | [`28-stock-exchange/SKILL.md`](28-stock-exchange/SKILL.md) |
+| 18 | Google Maps Architecture | [`google-maps/SKILL.md`](google-maps/SKILL.md) |
+| 19 | Distributed Message Queue | [`distributed-message-queue/SKILL.md`](distributed-message-queue/SKILL.md) |
+| 20 | Metrics Monitoring and Alerting | [`metrics-monitoring-and-alerting-system/SKILL.md`](metrics-monitoring-and-alerting-system/SKILL.md) |
+| 21 | Ad Click Event Aggregation | [`ad-click-event-aggregation/SKILL.md`](ad-click-event-aggregation/SKILL.md) |
+| 22 | Hotel Reservation System | [`hotel-reservation-system/SKILL.md`](hotel-reservation-system/SKILL.md) |
+| 23 | Distributed Email Service | [`distributed-email-service/SKILL.md`](distributed-email-service/SKILL.md) |
+| 24 | S3-Like Object Storage | [`s3-like-object-storage/SKILL.md`](s3-like-object-storage/SKILL.md) |
+| 25 | Real-Time Gaming Leaderboard | [`real-time-gaming-leaderboard/SKILL.md`](real-time-gaming-leaderboard/SKILL.md) |
+| 26 | Payment System | [`payment-system/SKILL.md`](2payment-system/SKILL.md) |
+| 27 | Digital Wallet | [`digital-wallet/SKILL.md`](digital-wallet/SKILL.md) |
+| 28 | Stock Exchange Design | [`stock-exchange/SKILL.md`](stock-exchange/SKILL.md) |
 
 ## How to Use
 
