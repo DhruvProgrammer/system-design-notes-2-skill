@@ -16,29 +16,29 @@ Each skill provides key concepts, a design procedure, trade-offs, and review che
 
 | # | System design skill | File |
 |---:|---|---|
-| 1 | Scaling from Zero to Millions of Users | [`scaling/SKILL.md`](01-scaling/SKILL.md) |
-| 2 | Back-of-the-Envelope Estimation | [`back-of-the-envelope-estimation/SKILL.md`](02-back-of-the-envelope-estimation/SKILL.md) |
-| 3 | System Design Interview Framework | [`system-design-framework/SKILL.md`](03-system-design-framework/SKILL.md) |
-| 4 | Rate Limiter Design | [`rate-limiter/SKILL.md`](04-rate-limiter/SKILL.md) |
-| 5 | Consistent Hashing | [`consistent-hashing/SKILL.md`](05-consistent-hashing/SKILL.md) |
-| 6 | Distributed Key-Value Store | [`-key-value-store/SKILL.md`](06-key-value-store/SKILL.md) |
-| 7 | Unique ID Generator | [`unique-id-generator/SKILL.md`](07-unique-id-generator/SKILL.md) |
-| 8 | URL Shortener | [`url-shortener/SKILL.md`](08-url-shortener/SKILL.md) |
-| 9 | Web Crawler | [`web-crawler/SKILL.md`](09-web-crawler/SKILL.md) |
-| 10 | Notification System | [`notification-system/SKILL.md`](10-notification-system/SKILL.md) |
-| 11 | News Feed System | [`news-feed-system/SKILL.md`](11-news-feed-system/SKILL.md) |
-| 12 | Chat System | [`chat-system/SKILL.md`](12-chat-system/SKILL.md) |
-| 13 | Search Autocomplete | [`search-autocomplete/SKILL.md`](13-search-autocomplete/SKILL.md) |
-| 14 | YouTube Architecture | [`-youtube/SKILL.md`](14-youtube/SKILL.md) |
-| 15 | Google Drive Architecture | [`google-drive/SKILL.md`](15-google-drive/SKILL.md) |
-| 16 | Proximity Service | [`proximity-service/SKILL.md`](16-proximity-service/SKILL.md) |
-| 17 | Nearby Friends | [`nearby-friends/SKILL.md`](17-nearby-friends/SKILL.md) |
-| 18 | Google Maps Architecture | [`18-google-maps/SKILL.md`](18-google-maps/SKILL.md) |
-| 19 | Distributed Message Queue | [`19-distributed-message-queue/SKILL.md`](19-distributed-message-queue/SKILL.md) |
-| 20 | Metrics Monitoring and Alerting | [`20-metrics-monitoring-and-alerting-system/SKILL.md`](20-metrics-monitoring-and-alerting-system/SKILL.md) |
-| 21 | Ad Click Event Aggregation | [`21-ad-click-event-aggregation/SKILL.md`](21-ad-click-event-aggregation/SKILL.md) |
-| 22 | Hotel Reservation System | [`22-hotel-reservation-system/SKILL.md`](22-hotel-reservation-system/SKILL.md) |
-| 23 | Distributed Email Service | [`23-distributed-email-service/SKILL.md`](23-distributed-email-service/SKILL.md) |
+| 1 | Scaling from Zero to Millions of Users | [`scaling/SKILL.md`](0scaling/SKILL.md) |
+| 2 | Back-of-the-Envelope Estimation | [`back-of-the-envelope-estimation/SKILL.md`](0back-of-the-envelope-estimation/SKILL.md) |
+| 3 | System Design Interview Framework | [`system-design-framework/SKILL.md`](system-design-framework/SKILL.md) |
+| 4 | Rate Limiter Design | [`rate-limiter/SKILL.md`](0rate-limiter/SKILL.md) |
+| 5 | Consistent Hashing | [`consistent-hashing/SKILL.md`](-consistent-hashing/SKILL.md) |
+| 6 | Distributed Key-Value Store | [`-key-value-store/SKILL.md`](key-value-store/SKILL.md) |
+| 7 | Unique ID Generator | [`unique-id-generator/SKILL.md`](unique-id-generator/SKILL.md) |
+| 8 | URL Shortener | [`url-shortener/SKILL.md`](url-shortener/SKILL.md) |
+| 9 | Web Crawler | [`web-crawler/SKILL.md`](web-crawler/SKILL.md) |
+| 10 | Notification System | [`notification-system/SKILL.md`](notification-system/SKILL.md) |
+| 11 | News Feed System | [`news-feed-system/SKILL.md`](news-feed-system/SKILL.md) |
+| 12 | Chat System | [`chat-system/SKILL.md`](chat-system/SKILL.md) |
+| 13 | Search Autocomplete | [`search-autocomplete/SKILL.md`](search-autocomplete/SKILL.md) |
+| 14 | YouTube Architecture | [`-youtube/SKILL.md`](youtube/SKILL.md) |
+| 15 | Google Drive Architecture | [`google-drive/SKILL.md`](google-drive/SKILL.md) |
+| 16 | Proximity Service | [`proximity-service/SKILL.md`](proximity-service/SKILL.md) |
+| 17 | Nearby Friends | [`nearby-friends/SKILL.md`](nearby-friends/SKILL.md) |
+| 18 | Google Maps Architecture | [`18-google-maps/SKILL.md`](google-maps/SKILL.md) |
+| 19 | Distributed Message Queue | [`19-distributed-message-queue/SKILL.md`](distributed-message-queue/SKILL.md) |
+| 20 | Metrics Monitoring and Alerting | [`20-metrics-monitoring-and-alerting-system/SKILL.md`](metrics-monitoring-and-alerting-system/SKILL.md) |
+| 21 | Ad Click Event Aggregation | [`21-ad-click-event-aggregation/SKILL.md`](ad-click-event-aggregation/SKILL.md) |
+| 22 | Hotel Reservation System | [`22-hotel-reservation-system/SKILL.md`](hotel-reservation-system/SKILL.md) |
+| 23 | Distributed Email Service | [`23-distributed-email-service/SKILL.md`](distributed-email-service/SKILL.md) |
 | 24 | S3-Like Object Storage | [`24-s3-like-object-storage/SKILL.md`](24-s3-like-object-storage/SKILL.md) |
 | 25 | Real-Time Gaming Leaderboard | [`25-real-time-gaming-leaderboard/SKILL.md`](25-real-time-gaming-leaderboard/SKILL.md) |
 | 26 | Payment System | [`26-payment-system/SKILL.md`](26-payment-system/SKILL.md) |
