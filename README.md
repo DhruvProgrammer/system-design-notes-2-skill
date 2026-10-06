@@ -16,23 +16,23 @@ Each skill provides key concepts, a design procedure, trade-offs, and review che
 
 | # | System design skill | File |
 |---:|---|---|
-| 1 | Scaling from Zero to Millions of Users | [`01-scaling/SKILL.md`](01-scaling/SKILL.md) |
-| 2 | Back-of-the-Envelope Estimation | [`02-back-of-the-envelope-estimation/SKILL.md`](02-back-of-the-envelope-estimation/SKILL.md) |
-| 3 | System Design Interview Framework | [`03-system-design-framework/SKILL.md`](03-system-design-framework/SKILL.md) |
-| 4 | Rate Limiter Design | [`04-rate-limiter/SKILL.md`](04-rate-limiter/SKILL.md) |
-| 5 | Consistent Hashing | [`05-consistent-hashing/SKILL.md`](05-consistent-hashing/SKILL.md) |
-| 6 | Distributed Key-Value Store | [`06-key-value-store/SKILL.md`](06-key-value-store/SKILL.md) |
-| 7 | Unique ID Generator | [`07-unique-id-generator/SKILL.md`](07-unique-id-generator/SKILL.md) |
-| 8 | URL Shortener | [`08-url-shortener/SKILL.md`](08-url-shortener/SKILL.md) |
-| 9 | Web Crawler | [`09-web-crawler/SKILL.md`](09-web-crawler/SKILL.md) |
-| 10 | Notification System | [`10-notification-system/SKILL.md`](10-notification-system/SKILL.md) |
-| 11 | News Feed System | [`11-news-feed-system/SKILL.md`](11-news-feed-system/SKILL.md) |
-| 12 | Chat System | [`12-chat-system/SKILL.md`](12-chat-system/SKILL.md) |
-| 13 | Search Autocomplete | [`13-search-autocomplete/SKILL.md`](13-search-autocomplete/SKILL.md) |
-| 14 | YouTube Architecture | [`14-youtube/SKILL.md`](14-youtube/SKILL.md) |
-| 15 | Google Drive Architecture | [`15-google-drive/SKILL.md`](15-google-drive/SKILL.md) |
-| 16 | Proximity Service | [`16-proximity-service/SKILL.md`](16-proximity-service/SKILL.md) |
-| 17 | Nearby Friends | [`17-nearby-friends/SKILL.md`](17-nearby-friends/SKILL.md) |
+| 1 | Scaling from Zero to Millions of Users | [`scaling/SKILL.md`](01-scaling/SKILL.md) |
+| 2 | Back-of-the-Envelope Estimation | [`back-of-the-envelope-estimation/SKILL.md`](02-back-of-the-envelope-estimation/SKILL.md) |
+| 3 | System Design Interview Framework | [`system-design-framework/SKILL.md`](03-system-design-framework/SKILL.md) |
+| 4 | Rate Limiter Design | [`rate-limiter/SKILL.md`](04-rate-limiter/SKILL.md) |
+| 5 | Consistent Hashing | [`consistent-hashing/SKILL.md`](05-consistent-hashing/SKILL.md) |
+| 6 | Distributed Key-Value Store | [`-key-value-store/SKILL.md`](06-key-value-store/SKILL.md) |
+| 7 | Unique ID Generator | [`unique-id-generator/SKILL.md`](07-unique-id-generator/SKILL.md) |
+| 8 | URL Shortener | [`url-shortener/SKILL.md`](08-url-shortener/SKILL.md) |
+| 9 | Web Crawler | [`web-crawler/SKILL.md`](09-web-crawler/SKILL.md) |
+| 10 | Notification System | [`notification-system/SKILL.md`](10-notification-system/SKILL.md) |
+| 11 | News Feed System | [`news-feed-system/SKILL.md`](11-news-feed-system/SKILL.md) |
+| 12 | Chat System | [`chat-system/SKILL.md`](12-chat-system/SKILL.md) |
+| 13 | Search Autocomplete | [`search-autocomplete/SKILL.md`](13-search-autocomplete/SKILL.md) |
+| 14 | YouTube Architecture | [`-youtube/SKILL.md`](14-youtube/SKILL.md) |
+| 15 | Google Drive Architecture | [`google-drive/SKILL.md`](15-google-drive/SKILL.md) |
+| 16 | Proximity Service | [`proximity-service/SKILL.md`](16-proximity-service/SKILL.md) |
+| 17 | Nearby Friends | [`nearby-friends/SKILL.md`](17-nearby-friends/SKILL.md) |
 | 18 | Google Maps Architecture | [`18-google-maps/SKILL.md`](18-google-maps/SKILL.md) |
 | 19 | Distributed Message Queue | [`19-distributed-message-queue/SKILL.md`](19-distributed-message-queue/SKILL.md) |
 | 20 | Metrics Monitoring and Alerting | [`20-metrics-monitoring-and-alerting-system/SKILL.md`](20-metrics-monitoring-and-alerting-system/SKILL.md) |
