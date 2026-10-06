@@ -16,11 +16,11 @@ Each skill provides key concepts, a design procedure, trade-offs, and review che
 
 | # | System design skill | File |
 |---:|---|---|
-| 1 | Scaling from Zero to Millions of Users | [`scaling/SKILL.md`](0scaling/SKILL.md) |
-| 2 | Back-of-the-Envelope Estimation | [`back-of-the-envelope-estimation/SKILL.md`](0back-of-the-envelope-estimation/SKILL.md) |
+| 1 | Scaling from Zero to Millions of Users | [`scaling/SKILL.md`](scaling/SKILL.md) |
+| 2 | Back-of-the-Envelope Estimation | [`back-of-the-envelope-estimation/SKILL.md`](back-of-the-envelope-estimation/SKILL.md) |
 | 3 | System Design Interview Framework | [`system-design-framework/SKILL.md`](system-design-framework/SKILL.md) |
-| 4 | Rate Limiter Design | [`rate-limiter/SKILL.md`](0rate-limiter/SKILL.md) |
-| 5 | Consistent Hashing | [`consistent-hashing/SKILL.md`](-consistent-hashing/SKILL.md) |
+| 4 | Rate Limiter Design | [`rate-limiter/SKILL.md`](rate-limiter/SKILL.md) |
+| 5 | Consistent Hashing | [`consistent-hashing/SKILL.md`](consistent-hashing/SKILL.md) |
 | 6 | Distributed Key-Value Store | [`-key-value-store/SKILL.md`](key-value-store/SKILL.md) |
 | 7 | Unique ID Generator | [`unique-id-generator/SKILL.md`](unique-id-generator/SKILL.md) |
 | 8 | URL Shortener | [`url-shortener/SKILL.md`](url-shortener/SKILL.md) |
